@@ -1,19 +1,19 @@
 body{background-color: rgba(0, 195, 255, 0.486);}
+
 img{
     width: 70%; 
 }
 
+.titulo_principal{
+       text-align: center;
+       background-color: white ;
+}
+
 p{
     text-align: center;
+    background-color: azure;
 }
- h1{ 
-   text-align: center;
- }
 
-h1{background-color: white ;}
 
- p{background-color: azure;}
 
- .imagen{
-    text-align: center;
- }
+
